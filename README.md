@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Turkey (Türkiye), covering official tourism portals, electronic visas, high-speed rail networks, regional heritage guides, and digital nomad options.
 
+Turkey is a historically rich transcontinental destination bridging Europe and Asia, featuring ancient Greco-Roman ruins, dramatic fairy chimneys, and vibrant coastal rivieras. This list is intended for archaeological explorers, cultural historians, coastal travelers, and remote professionals.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
